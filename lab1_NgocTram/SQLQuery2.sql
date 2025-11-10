@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Id]
+      ,[Password]
+      ,[Fullname]
+      ,[Email]
+      ,[Admin]
+  FROM [PolyOE].[dbo].[Users]
