@@ -1,0 +1,5 @@
+SELECT TOP (1000) [Id]
+      ,[VideoId]
+      ,[UserId]
+      ,[LikeDate]
+  FROM [PolyOE1].[dbo].[Favorites]
